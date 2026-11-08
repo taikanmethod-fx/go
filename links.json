@@ -1,13 +1,80 @@
 {
-  "test": {"url": "https://taikanmethod.com/items/6ad81e218ec0e2cbaba49d87", "who": "yuma", "media": "test", "post": "動作確認"},
-  "a2-oc": {"url": "https://taikanmethod.com/items/6ad81e218ec0e2cbaba49d87?utm_source=openchat&utm_campaign=fx2archive", "who": "yuma", "media": "オプチャ", "post": "2期アーカイブ販売（10/27〜31）"},
-  "a2-ig": {"url": "https://taikanmethod.com/items/6ad81e218ec0e2cbaba49d87?utm_source=instagram&utm_campaign=fx2archive", "who": "yuma", "media": "インスタ", "post": "2期アーカイブ販売（10/27〜31）"},
-  "a2-line": {"url": "https://taikanmethod.com/items/6ad81e218ec0e2cbaba49d87?utm_source=line_fx&utm_campaign=fx2archive", "who": "yuma", "media": "FX公式LINE", "post": "2期アーカイブ販売（10/27〜31）"},
-  "a2-yt": {"url": "https://taikanmethod.com/items/6ad81e218ec0e2cbaba49d87?utm_source=youtube&utm_campaign=fx2archive", "who": "yuma", "media": "YouTube", "post": "2期アーカイブ販売（10/27〜31）"},
-  "line-note": {"url": "https://lin.ee/964TrER", "who": "yuma", "media": "note", "post": "note記事の最後（FX公式LINEへ）"},
-  "line-yt": {"url": "https://lin.ee/6HUk2j8", "who": "yuma", "media": "YouTube", "post": "YouTube概要欄（FX公式LINEへ）"},
-  "line-oc": {"url": "https://lin.ee/vEGINxs", "who": "yuma", "media": "オプチャ", "post": "2期アーカイブ 個別質問（FX公式LINEへ）"},
-  "sudo-yt": {"url": "https://www.youtube.com/@taikanmethod_fx", "who": "須藤さん", "media": "須藤さんの紹介", "post": "YouTubeチャンネル紹介（11/8〜）"},
-  "sudo-note": {"url": "https://note.com/fx_taikanmethod", "who": "須藤さん", "media": "須藤さんの紹介", "post": "note紹介（11/8〜）"},
-  "sudo-line": {"url": "https://lin.ee/6HUk2j8", "who": "須藤さん", "media": "須藤さんの紹介", "post": "FX公式LINE（講座の初回を無料で）紹介（11/8〜）"}
+  "test": {
+    "url": "https://taikanmethod.com/items/6ad81e218ec0e2cbaba49d87",
+    "who": "yuma",
+    "media": "test",
+    "post": "動作確認"
+  },
+  "a2-oc": {
+    "url": "https://taikanmethod.com/items/6ad81e218ec0e2cbaba49d87?utm_source=openchat&utm_campaign=fx2archive",
+    "who": "yuma",
+    "media": "オプチャ",
+    "post": "2期アーカイブ販売（10/27〜31）"
+  },
+  "a2-ig": {
+    "url": "https://taikanmethod.com/items/6ad81e218ec0e2cbaba49d87?utm_source=instagram&utm_campaign=fx2archive",
+    "who": "yuma",
+    "media": "インスタ",
+    "post": "2期アーカイブ販売（10/27〜31）"
+  },
+  "a2-line": {
+    "url": "https://taikanmethod.com/items/6ad81e218ec0e2cbaba49d87?utm_source=line_fx&utm_campaign=fx2archive",
+    "who": "yuma",
+    "media": "FX公式LINE",
+    "post": "2期アーカイブ販売（10/27〜31）"
+  },
+  "a2-yt": {
+    "url": "https://taikanmethod.com/items/6ad81e218ec0e2cbaba49d87?utm_source=youtube&utm_campaign=fx2archive",
+    "who": "yuma",
+    "media": "YouTube",
+    "post": "2期アーカイブ販売（10/27〜31）"
+  },
+  "line-note": {
+    "url": "https://lin.ee/964TrER",
+    "who": "yuma",
+    "media": "note",
+    "post": "note記事の最後（FX公式LINEへ）"
+  },
+  "line-yt": {
+    "url": "https://lin.ee/6HUk2j8",
+    "who": "yuma",
+    "media": "YouTube",
+    "post": "YouTube概要欄（FX公式LINEへ）"
+  },
+  "line-oc": {
+    "url": "https://lin.ee/vEGINxs",
+    "who": "yuma",
+    "media": "オプチャ",
+    "post": "2期アーカイブ 個別質問（FX公式LINEへ）"
+  },
+  "sudo-yt": {
+    "url": "https://www.youtube.com/@taikanmethod_fx",
+    "who": "須藤さん",
+    "media": "須藤さんの紹介",
+    "post": "YouTubeチャンネル紹介（11/8〜）"
+  },
+  "sudo-note": {
+    "url": "https://note.com/fx_taikanmethod",
+    "who": "須藤さん",
+    "media": "須藤さんの紹介",
+    "post": "note紹介（11/8〜）"
+  },
+  "sudo-line": {
+    "url": "https://lin.ee/6HUk2j8",
+    "who": "須藤さん",
+    "media": "須藤さんの紹介",
+    "post": "FX公式LINE（講座の初回を無料で）紹介（11/8〜）"
+  },
+  "r1-line": {
+    "url": "https://youtu.be/vaSP8HIw4Rs",
+    "who": "yuma",
+    "media": "FX公式LINE",
+    "post": "連載#1 公開のお知らせ（11/8 20:00〜）"
+  },
+  "r1-dc": {
+    "url": "https://youtu.be/vaSP8HIw4Rs",
+    "who": "yuma",
+    "media": "Discord",
+    "post": "連載#1 公開のお知らせ（11/8 20:00〜）"
+  }
 }
