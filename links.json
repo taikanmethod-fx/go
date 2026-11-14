@@ -49,21 +49,21 @@
   },
   "sudo-yt": {
     "url": "https://www.youtube.com/@taikanmethod_fx",
-    "who": "須藤さん",
+    "who": "sudo",
     "media": "須藤さんの紹介",
-    "post": "YouTubeチャンネル紹介（11/8〜）"
+    "post": "YouTube チャンネル"
   },
   "sudo-note": {
     "url": "https://note.com/fx_taikanmethod",
-    "who": "須藤さん",
+    "who": "sudo",
     "media": "須藤さんの紹介",
-    "post": "note紹介（11/8〜）"
+    "post": "note"
   },
   "sudo-line": {
-    "url": "https://lin.ee/6HUk2j8",
-    "who": "須藤さん",
+    "url": "https://line.me/R/ti/p/@119folwo",
+    "who": "sudo",
     "media": "須藤さんの紹介",
-    "post": "FX公式LINE（講座の初回を無料で）紹介（11/8〜）"
+    "post": "FX公式LINE 友だち追加"
   },
   "r1-line": {
     "url": "https://youtu.be/vaSP8HIw4Rs",
@@ -94,5 +94,17 @@
     "who": "yuma",
     "media": "FX公式LINE 自動返信「相談」",
     "post": "講座の中身（カート）"
+  },
+  "sudo-tt": {
+    "url": "https://www.tiktok.com/@taikanmethod_fx",
+    "who": "sudo",
+    "media": "須藤さんの紹介",
+    "post": "TikTok"
+  },
+  "sudo-ig": {
+    "url": "https://www.instagram.com/taikanmethod_fx/",
+    "who": "sudo",
+    "media": "須藤さんの紹介",
+    "post": "インスタ"
   }
 }
