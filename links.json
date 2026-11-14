@@ -76,5 +76,17 @@
     "who": "yuma",
     "media": "Discord",
     "post": "連載#1 公開のお知らせ（11/8 20:00〜）"
+  },
+  "menu-yt": {
+    "url": "https://www.youtube.com/playlist?list=PLEJQgPBShVss",
+    "who": "yuma",
+    "media": "FX公式LINE リッチメニュー",
+    "post": "振り返り動画を見る（再生リスト）"
+  },
+  "menu-note": {
+    "url": "https://note.com/fx_taikanmethod",
+    "who": "yuma",
+    "media": "FX公式LINE リッチメニュー",
+    "post": "記事で読む（note）"
   }
 }
