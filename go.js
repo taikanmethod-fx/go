@@ -10,7 +10,7 @@
     var u = LOG + '?l=' + encodeURIComponent(id) + '&ref=' + encodeURIComponent(document.referrer || '') + '&ua=' + encodeURIComponent((navigator.userAgent || '').slice(0, 120));
     if (navigator.sendBeacon) navigator.sendBeacon(u); else fetch(u, { mode: 'no-cors', keepalive: true });
   } catch (e) {}
-  fetch('/go/links.json', { cache: 'no-store' }).then(function (r) { return r.json(); })
+  fetch('/go/links.json?t=' + Date.now(), { cache: 'no-store' }).then(function (r) { return r.json(); })
     .then(function (m) { var t = m[id]; setTimeout(function () { go(t && t.url); }, 150); })
     .catch(function () { go(FALLBACK); });
 })();
