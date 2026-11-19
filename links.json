@@ -6,28 +6,28 @@
     "post": "動作確認"
   },
   "a2-oc": {
-    "url": "https://taikanmethod.com/items/6ad81e218ec0e2cbaba49d87?utm_source=openchat&utm_campaign=fx2archive",
+    "url": "https://taikanmethod.com/items/6aeb5529a255b629ae172586?utm_source=openchat&utm_campaign=fx2archive",
     "who": "yuma",
     "media": "オプチャ",
-    "post": "2期アーカイブ販売（10/27〜31）"
+    "post": "2期アーカイブ販売（10/27〜31）（11/19 販売終了の旧カートから今のカートへ付け替え）"
   },
   "a2-ig": {
-    "url": "https://taikanmethod.com/items/6ad81e218ec0e2cbaba49d87?utm_source=instagram&utm_campaign=fx2archive",
+    "url": "https://taikanmethod.com/items/6aeb5529a255b629ae172586?utm_source=instagram&utm_campaign=fx2archive",
     "who": "yuma",
     "media": "インスタ",
-    "post": "2期アーカイブ販売（10/27〜31）"
+    "post": "2期アーカイブ販売（10/27〜31）（11/19 販売終了の旧カートから今のカートへ付け替え）"
   },
   "a2-line": {
-    "url": "https://taikanmethod.com/items/6ad81e218ec0e2cbaba49d87?utm_source=line_fx&utm_campaign=fx2archive",
+    "url": "https://taikanmethod.com/items/6aeb5529a255b629ae172586?utm_source=line_fx&utm_campaign=fx2archive",
     "who": "yuma",
     "media": "FX公式LINE",
-    "post": "2期アーカイブ販売（10/27〜31）"
+    "post": "2期アーカイブ販売（10/27〜31）（11/19 販売終了の旧カートから今のカートへ付け替え）"
   },
   "a2-yt": {
-    "url": "https://taikanmethod.com/items/6ad81e218ec0e2cbaba49d87?utm_source=youtube&utm_campaign=fx2archive",
+    "url": "https://taikanmethod.com/items/6aeb5529a255b629ae172586?utm_source=youtube&utm_campaign=fx2archive",
     "who": "yuma",
     "media": "YouTube",
-    "post": "2期アーカイブ販売（10/27〜31）"
+    "post": "2期アーカイブ販売（10/27〜31）（11/19 販売終了の旧カートから今のカートへ付け替え）"
   },
   "line-note": {
     "url": "https://lin.ee/964TrER",
@@ -112,5 +112,11 @@
     "who": "yuma",
     "media": "YouTube広告",
     "post": "YouTube広告テスト（#2ナンピン・11/18〜）の説明欄・固定コメント（FX公式LINEへ）"
+  },
+  "menu-archive": {
+    "url": "https://taikanmethod.com/items/6aeb5529a255b629ae172586?utm_source=line_menu&utm_campaign=fx2archive",
+    "who": "yuma",
+    "media": "FX公式LINE リッチメニュー",
+    "post": "講座アーカイブ（全12本）（11/19〜）"
   }
 }
