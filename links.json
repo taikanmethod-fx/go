@@ -118,5 +118,41 @@
     "who": "yuma",
     "media": "FX公式LINE リッチメニュー",
     "post": "講座アーカイブ（全12本）（11/19〜）"
+  },
+  "bc1119-yt": {
+    "url": "https://www.youtube.com/playlist?list=PLEJQgPBShVss",
+    "who": "yuma",
+    "media": "FX公式LINE 一斉配信",
+    "post": "元からいる友だちへ案内（11/19）振り返り再生リスト"
+  },
+  "bc1119-cart": {
+    "url": "https://taikanmethod.com/items/6aeb5529a255b629ae172586?utm_source=line_bc&utm_campaign=fx2archive",
+    "who": "yuma",
+    "media": "FX公式LINE 一斉配信",
+    "post": "元からいる友だちへ案内（11/19）アーカイブ"
+  },
+  "step-d1": {
+    "url": "https://youtu.be/EiuyYTdnyEI",
+    "who": "yuma",
+    "media": "FX公式LINE ステップ1日目",
+    "post": "お試し動画（11/19〜）"
+  },
+  "step-d3-yt": {
+    "url": "https://www.youtube.com/playlist?list=PLEJQgPBShVss",
+    "who": "yuma",
+    "media": "FX公式LINE ステップ3日目",
+    "post": "振り返り再生リスト（11/19〜）"
+  },
+  "step-d3-note": {
+    "url": "https://note.com/fx_taikanmethod",
+    "who": "yuma",
+    "media": "FX公式LINE ステップ3日目",
+    "post": "note（11/19〜）"
+  },
+  "step-d12": {
+    "url": "https://taikanmethod.com/items/6aeb5529a255b629ae172586?utm_source=line_step&utm_campaign=fx2archive",
+    "who": "yuma",
+    "media": "FX公式LINE ステップ12日目",
+    "post": "アーカイブのカート（11/19〜）"
   }
 }
