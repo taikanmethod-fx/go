@@ -4,6 +4,7 @@
   var q = new URLSearchParams(location.search);
   var id = q.get('l') || location.pathname.replace(/^\/go\/?/, '').replace(/\/$/, '').split('/').pop() || '';
   id = decodeURIComponent(id).trim();
+  id = (id.match(/^[A-Za-z0-9_.\-]+/) || [''])[0];  // 末尾に付いた「）」「。」などを外す
   function go(url) { location.replace(url || FALLBACK); }
   if (!id || id === 'index.html' || id === '404.html') { go(FALLBACK); return; }
   try {
